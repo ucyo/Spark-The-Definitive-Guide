@@ -1,0 +1,5 @@
+[biketrips]
+start_stations = [
+    "Golden Gate at Polk", 
+    "Powell at Post (Union Square)"
+]
